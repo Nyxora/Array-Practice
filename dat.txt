@@ -1,0 +1,7 @@
+Mon$	Austin
+Tues$	Mandana
+wed$	robert
+Thr$	John
+Fri$	0
+Sat$	0
+Sun$	0
