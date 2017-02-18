@@ -1,0 +1,5 @@
+Martin/ 22 2.2
+Austin/ 18 3.1
+Johnson/ 19 2.9
+Maggie/ 23 2.3
+Tyler/ 16 3.4
