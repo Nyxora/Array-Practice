@@ -1,6 +1,18 @@
 # CPP-Practice
 This repository is for cataloging school projects and practice.
 
+bmA1N1     - Calculate balance of an account after 5 years using B=Pe^rt.
+
+bmA1N2     - Create a greeting based on user input.
+
+bmA1N3     - Create a menu, as for order, and give total.
+
+bmA1N4     - Find the area and perimiter of a triangle.
+
+bmA2N2     - Count the number of Uppercase letters, Digits and Vowels in a sentecnce provided by user.
+
+bmA2N3     - Allow user to practice addition problems with integers < 100.
+
 bmA3N1     - Display Array a and Days and compute the min, max and avg of Array a.
 
 bmA3N2     - Display the salaries of some presidents and then display the average of their saleries.
@@ -58,6 +70,8 @@ bmA9N1     - Create a recursive function for 1^3+2^3+3^3+...+n^3 for n = 10
 bmA9N2     - Generate 30 random #'s between 0 and 9. Find the frequency of number.
 
 bmA9N3     - Make a struct array of user defined size and fill with user input.
+
+bmA11N2    - Find the perimeter of a rectangle with vertecies supplied by user.
 
 bmA12N1    - Collect 5 names and 7 numbers from users into arrays and then display them.
 
