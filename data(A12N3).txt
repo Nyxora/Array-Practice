@@ -1,0 +1,5 @@
+Carter,Jimmy 52
+Reagan,Ronald 69
+Bush,George 54
+Clinton,Bill 46
+Obama,Barack 47
